@@ -1,0 +1,258 @@
+{
+  "main": {
+    "name":"Ankit Bhagat",
+    "occupation":"Software Engineer",
+    "descriptionOne":"working at ",
+    "decriptionTwo": "I graduated from ",
+    "descriptionThree":"I work on ",
+    "bio": "I like composing music 🎵, going on bike rides 🚴🏼‍♂️, playing games 🎲, clicking pictures 📸 and reading books 📖 during my leisure time.",
+    "image":"profilepic.png",
+    "aboutme": "aboutme.png",
+    "school":"New York University",
+    "company":"Splunk",
+    "interestedfields": "Full Stack Development and Data Science (Machine Learning)",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "ankitcbhagat@gmail.com",
+    "phone": "(646) 241-3266",
+    "address":{
+      "street":"(Your Street)",
+      "city":"San Francisco Bay Area",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://www.ankitbhagat.com",
+    "resumedownload":"http://ankitbhagat.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/xynazog",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/@xynazog",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/xynazog",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/ankitcbhagat",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/xynazog",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "technologies":[
+    {
+      "name":"Python",
+      "className": "fab fa-python"
+    }
+  ],
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"New York University (Courant)",
+        "degree":"Masters in Computer Science",
+        "graduated":"May 2018",
+        "description":"GPA: 3.60/4.00"
+      },
+      {
+        "school":"Pune Institute of Computer Technology",
+        "degree":"Bachelors in Computer Engineering",
+        "graduated":"May 2016",
+        "description":"GPA: 3.55/4.00"
+      }
+    ],
+    "work":[
+      {
+        "company":"Splunk",
+        "title":"Software Engineer 3",
+        "years":"May 2020 - Present",
+        "description":"Leading team efforts on shipping Phantom Applications (SOAR tool) and Splunk Enterprise applications.",
+        "descriptionTwo":"Delivered 60+ customer and strategic initiatives, influencing over $133.14M in Total Contract Value (FY20) and $25.9M Annual Contract Value (FY21).",
+        "descriptionThree":"Contributed to two talks at .conf on Scalability and Machine Learning with more than 200 people in each.",
+        "descriptionFour": "Active member of the Open Source team at Splunk."
+      },
+      {
+        "company":"Splunk",
+        "title":"Forward Deployed Software Engineer",
+        "years":"November 2018 - April 2020",
+        "description":"Building executive dashboards, visualizations, add-ons, REST APIs and applications using Javascript and Python.",
+        "descriptionTwo":"Created a automated workflow using GSuite, JIRA, Slack, Salesforce and SMTP.",
+        "descriptionThree":"Delivered 60+ customer and strategic initiatives, influencing over $133.14M in Total Contract Value (FY20) and $25.9M Annual Contract Value (FY21).",
+        "descriptionFour": "Co-created the enablement courses for the Sales Engineering team for Python."
+      }
+    ],
+    "devLanguages":
+    [
+      {
+        "name":"Python",
+        "url":"https://www.python.org/",
+        "className":"fab fa-python"
+      },
+      {
+        "name":"Java",
+        "url":"https://www.java.com",
+        "className":"fab fa-java"
+      },
+      {
+        "name":"Javascript",
+        "url":"https://www.javascript.com/",
+        "className":"fab fa-js-square"
+      },
+      {
+        "name":"Golang",
+        "url":"https://www.golang.org/",
+        "className":"icon-go"
+      },
+      {
+        "name":"Scala",
+        "url":"https://www.scala-lang.org/",
+        "className":"icon-scala-alt"
+      },
+      {
+        "name":"NodeJS",
+        "url":"https://www.nodejs.org/",
+        "className":"fab fa-node"
+      }
+    ],
+    "databases":
+    [
+      {
+        "name":"MongoDB",
+        "url":"https://www.mongodb.com/",
+        "className":"icon-mongodb"
+      },
+      {
+        "name":"MySQL",
+        "url":"https://www.mysql.com",
+        "className":"icon-mysql"
+      },
+      {
+        "name":"Redis",
+        "url":"https://www.redis.io",
+        "className":"icon-redis"
+      }
+    ],
+    "frameworks":[
+      {
+        "name":"React",
+        "url":"https://www.reactjs.org/",
+        "className":"fab fa-react"
+      },
+      {
+        "name":"Bootstrap",
+        "url":"https://www.getbootstrap.com",
+        "className":"fab fa-bootstrap"
+      },
+      {
+        "name":"jQuery",
+        "url":"https://www.jquery.com",
+        "className":"icon-jquery"
+      },
+      {
+        "name":"d3",
+        "url":"https://www.d3js.org",
+        "className":"icon-d3"
+      }
+    ],
+    "others":[
+      {
+        "name":"AWS",
+        "url":"https://aws.amazon.com",
+        "className":"fab fa-aws"
+      },
+      {
+        "name":"Git",
+        "url":"https://www.git-scm.com/",
+        "className":"fab fa-git-square"
+      },
+      {
+        "name":"Docker",
+        "url":"https://www.docker.com",
+        "className":"fab fa-docker"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Never backs down from any technical challenge. Impeccable balance of pragmatism, perfectionism, and dedication to quickly deliver exceptional custom software solutions. Had the honor and privilege to manage and partner with Ankit for over two years. Ankit’s efforts further propelled a team of “developers in sales” to new heights in accelerating value for Splunk’s customers. Served as the ML leader allowing the team to expand further into advanced POC’s. He’s the ultimate team player: humble, hungry, smart and unselfish in every way. Very likely the smartest guy in the room and you’d never know it. Can’t recommend highly enough. Look forward to any opportunity to work with him again.",
+        "user":"Joe Welsh - Senior Director @ Splunk"
+      }
+    ]
+  }
+}
