@@ -7,11 +7,8 @@ class Header extends Component {
       var name = this.props.data.name;
       var occupation= this.props.data.occupation;
       var descriptionOne= this.props.data.descriptionOne;
-      var descriptionTwo= this.props.data.decriptionTwo;
       var descriptionThree= this.props.data.descriptionThree;
-      var descriptionFour= this.props.data.descriptionFour;
       var interestedfields= this.props.data.interestedfields;
-      var school= this.props.data.school;
       var company= this.props.data.company;
       var profilepic= "images/"+this.props.data.image;
       var city= this.props.data.address.city;
@@ -47,7 +44,7 @@ class Header extends Component {
             <div>
                <div>
                <h1 className="headerName">{name}</h1>
-               <h3 className="aboutlarge">I'm a <span>{city}</span> based <span>{occupation}</span> {descriptionOne}<a href="https://www.splunk.com"><span>{company}</span></a>.<br/>{descriptionThree}<span>{interestedfields}</span>.</h3>
+               <h3 className="aboutlarge">I'm a <span>{city}</span> based <span>{occupation}</span> {descriptionOne}<a href="https://www.splunk.com"><span>{company}.</span></a><br/>{descriptionThree}<span>{interestedfields}</span>.</h3>
                </div>
                <hr />
                <ul className="social">

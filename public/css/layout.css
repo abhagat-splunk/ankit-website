@@ -1129,3 +1129,19 @@ footer .social-links li:first-child { margin-left: 0; }
  .software-skill-inline > a > span ~ p{
    color: #11ABB0;
  }
+
+ .software-skill-inline > a > img {
+   fill: #868e96;
+ }
+
+ .software-skill-inline > a > svg {
+   fill: #868e96;
+ }
+
+ .software-skill-inline > a > svg:hover {
+   fill: #11ABB0;
+ }
+
+ .software-skill-inline > a > svg:hover ~ p{
+   color: #11ABB0;
+ }

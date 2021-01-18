@@ -50,12 +50,6 @@
       }
     ]
   },
-  "technologies":[
-    {
-      "name":"Python",
-      "className": "fab fa-python"
-    }
-  ],
   "resume":{
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
@@ -167,6 +161,16 @@
     ],
     "others":[
       {
+        "name":"HTML5",
+        "url":"https://developer.mozilla.org/en-US/docs/Web/HTML",
+        "className":"fab fa-html5"
+      },
+      {
+        "name":"CSS",
+        "url":"https://developer.mozilla.org/en-US/docs/Web/CSS",
+        "className":"fab fa-css3-alt"
+      },
+      {
         "name":"AWS",
         "url":"https://aws.amazon.com",
         "className":"fab fa-aws"
@@ -248,6 +252,7 @@
     ]
   },
   "testimonials":{
+    "mvppic": "mvppic.png",
     "testimonials":[
       {
         "text":"Never backs down from any technical challenge. Impeccable balance of pragmatism, perfectionism, and dedication to quickly deliver exceptional custom software solutions. Had the honor and privilege to manage and partner with Ankit for over two years. Ankit’s efforts further propelled a team of “developers in sales” to new heights in accelerating value for Splunk’s customers. Served as the ML leader allowing the team to expand further into advanced POC’s. He’s the ultimate team player: humble, hungry, smart and unselfish in every way. Very likely the smartest guy in the room and you’d never know it. Can’t recommend highly enough. Look forward to any opportunity to work with him again.",
